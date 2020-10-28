@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.conteiner-te{
+    display: block;
+    margin-block-start: 5em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 100px;
+    padding-inline-end: 100px;
+}
+
+.titulos1{
+   
+    text-align: center;
+    line-height: 1.2;
+    font-size: 2,5em;
+    margin: 0 0 40px;
+    padding: 0 0 30px;
+    
+    
+}
+
+.footer1{
+    text-align: center;
+    background: bisque;
+}
+
+.fab
+{
+    font-size: 50px;
+    color: brown;
+}
+.far{
+    font-size: 48px;
+    color: brown;
+}
